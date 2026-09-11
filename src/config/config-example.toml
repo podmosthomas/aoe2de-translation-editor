@@ -1,2 +1,5 @@
 local_mod_root_path = "The path to your local AOE 2 DE mod here"
 aoe2de_root_path = "The path to your AOE 2 DE installation here"
+
+# the languages whose languages you want to translate
+target_languages = ["de", "es", "fr"]
