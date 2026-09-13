@@ -143,7 +143,7 @@ def write_csv(
                 {
                     "id": row["id"],
                     "english": row["english"],
-                    translation_language: row["translation"],
+                    "translation": row["translation"],
                     "note": row["note"],
                 }
             )
