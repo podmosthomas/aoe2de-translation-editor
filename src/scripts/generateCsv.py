@@ -131,7 +131,7 @@ def write_csv(
             fieldnames=[
                 "id",
                 "english",
-                translation_language,
+                "translation",
                 "note",
             ],
         )
