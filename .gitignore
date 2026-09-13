@@ -1,3 +1,4 @@
 csv/*
 txt/*
 src/config/config.toml
+scripts/__pycache__/*
